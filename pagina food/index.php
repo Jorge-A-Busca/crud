@@ -4,7 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Loguearse</title>
 <style>
-h1{text-align:center;
+h1{
+	text-align:center;
 }
 table{width:25%;
 background:#39F;
